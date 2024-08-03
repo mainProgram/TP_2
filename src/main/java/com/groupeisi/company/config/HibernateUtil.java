@@ -6,8 +6,6 @@ import org.hibernate.boot.registry.StandardServiceRegistryBuilder;
 import org.hibernate.cfg.AvailableSettings;
 import org.hibernate.cfg.Configuration;
 import org.hibernate.service.ServiceRegistry;
-
-import com.groupeisi.company.entities.AccountUserEntity;
 import com.groupeisi.company.entities.UserEntity;
 
 public class HibernateUtil {

@@ -40,7 +40,7 @@ public class PrivateFilter implements Filter{
 		}
 		else 
 		{
-			resp.sendRedirect(req.getContextPath() + "/login");
+			resp.sendRedirect("login");
 		}
 		
 		

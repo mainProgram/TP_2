@@ -44,11 +44,11 @@ input {
 }
 
 input:focus {
-  border-color: #ff9900; /* Warna input saat focus */
+  border-color: rgb(0, 128, 128); /* Warna input saat focus */
 }
 
 button {
-  background-color: #ff9900; /* Warna button */
+  background-color: rgb(0, 128, 128); /* Warna button */
   color: #fff;
   padding: 10px;
   border: none;
@@ -58,5 +58,5 @@ button {
 }
 
 button:hover {
-  background-color: #ff6600; /* Warna button saat hover */
+  background-color: rgb(0, 128, 128); /* Warna button saat hover */
 }

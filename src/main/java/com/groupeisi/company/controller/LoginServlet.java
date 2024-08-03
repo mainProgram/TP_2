@@ -5,13 +5,9 @@ import java.util.Optional;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import com.groupeisi.company.dao.UserDao;
 import com.groupeisi.company.dto.UserDto;
-import com.groupeisi.company.entities.UserEntity;
 import com.groupeisi.company.service.IUserService;
 import com.groupeisi.company.service.UserService;
-
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

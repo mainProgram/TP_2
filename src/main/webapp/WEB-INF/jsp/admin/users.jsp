@@ -16,7 +16,7 @@
 						<td>ID</td>
 						<td>Prénom</td>
 						<td>Nom</td>
-						<td>EMAIL</td>
+						<td>Email</td>
 					</tr>
 				</thead>
 				<tbody>
